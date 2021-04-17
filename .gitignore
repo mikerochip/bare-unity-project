@@ -1,0 +1,12 @@
+# MacOS
+.DS_Store
+
+# vscode
+.vscode
+
+# Rider
+.idea
+*.DotSettings.user
+
+# AWS Toolkit
+aws-logger-errors.txt
