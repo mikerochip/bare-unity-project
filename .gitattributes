@@ -23,9 +23,6 @@
 *.props             text eol=crlf
 *.filters           text eol=crlf
 *.vcxitems          text eol=crlf
-launchSettings.json text eol=crlf
-appsettings*.json   text eol=crlf
-aws-*.json          text eol=crlf
 # LFS files
 # git-lfs is SUPER picky about the format of these lines.
 # git lfs migrate command WON'T think a file is tracked if it isn't formatted
